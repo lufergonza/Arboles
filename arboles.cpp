@@ -506,5 +506,5 @@ main(){
             case 5 :eliminar_arbol2();
         }
 
-    } while(opc!=8);
+    } while(opc!=6);
 }
